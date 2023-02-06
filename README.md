@@ -21,7 +21,7 @@
 - 📫 How to reach me lachy.kitchen@gmail.com  
   
   
-- Outside of programming I enjoy traveling ✈️, fishing 🎣 and golf 🏌️
+- ☀️ Outside of programming I enjoy traveling ✈️, fishing 🎣 and golf 🏌️
 
 
 - ⚡ Fun fact: I love dogs 🦮 and eating sushi 🍣 and fried chicken 🍗
