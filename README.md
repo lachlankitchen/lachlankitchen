@@ -82,6 +82,12 @@
 <br/>  
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lachlankitchen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br/>  
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/lachlankitchen" target="_blank">
@@ -95,6 +101,7 @@
 
 <br/>  
 
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=lachlankitchen&&style=flat-square" align="center" />
 </div>  
@@ -102,7 +109,5 @@
 
 <br/>  
 
-<div align="center"></div>
-<br />
 
 ----
