@@ -1,10 +1,13 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 25%" />
 </div>  
   
 
 ### <div align="center">I'm Lachy, a passionate undergraduate 🎓 full-stack developer 👨‍💻 from New Zealand 🌏🚀</div>  
   
+  
+<br/>  
+
 
 - 🔭 I’m currently working on adding subscriptions to a federated API as part of my intern project with BI company, Phocas Software.  
   
