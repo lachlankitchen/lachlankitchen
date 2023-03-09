@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Lachy, a passionate undergraduate 🎓 full-stack developer 👨‍💻 from New Zealand 🌏</div>  
+### <div align="center">I'm Lachy, a passionate undergraduate 🎓 & full-stack developer 👨‍💻 from New Zealand 🌏</div>  
   
   
 <br/>  
@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning React.js, C++  
 
 
-- 💫 I'm looking forward to learning Typescript, Kotlin, Docker & Kubernetes
+- 💫 I'm looking forward to learning Typescript, Kotlin and Docker
   
 
 - 📫 How to reach me lachy.kitchen@gmail.com  
