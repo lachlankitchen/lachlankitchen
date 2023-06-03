@@ -12,13 +12,13 @@
 - 🔭 I’m currently working on adding subscriptions to a federated API as part of my intern project with BI company, Phocas Software.  
   
 
-- 🌱 I’m currently learning React.js, C++  
+- 🌱 I’m currently learning C++ and Typescript
 
 
-- 💫 I'm looking forward to learning Typescript, Kotlin and Docker
+- 💫 I'm looking forward to learning Kotlin and Docker
   
 
-- 📫 How to reach me lachy.kitchen@gmail.com  
+- 📫 How to reach me lachlan.kitchen123@gmail.com  
   
   
 - ☀️ Outside of programming I enjoy traveling ✈️, fishing 🎣 and golf 🏌️
