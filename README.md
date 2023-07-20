@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning C++ and Typescript
 
 
-- 💫 I'm looking forward to learning Kotlin and Go
+- 💫 I'm looking forward to learning Kotlin and Flutter
   
 
 - 📫 How to reach me lachlan.kitchen123@gmail.com  
