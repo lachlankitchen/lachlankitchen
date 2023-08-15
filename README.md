@@ -12,10 +12,10 @@
 - 🔭 I’m currently working on adding subscriptions to a federated API as part of my intern project with BI company, Phocas Software.  
   
 
-- 🌱 I’m currently learning C++ and Typescript
+- 🌱 I’m currently learning C++ and Flutter
 
 
-- 💫 I'm looking forward to learning Kotlin and Flutter
+- 💫 I'm looking forward to learning Kotlin and C#
   
 
 - 📫 How to reach me lachlan.kitchen123@gmail.com  
